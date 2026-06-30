@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aida Haghdadi
-- 👀 I’m interested in travel, learn new things, animals and books
+- 👀 I’m interested in learn new things, travel, animals and books
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
