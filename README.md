@@ -5,7 +5,7 @@
 - 🎯 My goal is to build strong programming skills and prepare for graduate studies abroad.
 - 🤝 I'm always happy to learn from others and collaborate on beginner-friendly open-source projects.
 - 📫 How to reach me :
-      LinkedIn: https://www.linkedin.com/in/aida-haghdadi/
+      LinkedIn: https://www.linkedin.com/in/aida-haghdadi
       Email: aida.hg0483@gmail.com
 - 😄 Pronouns: she/her
 
